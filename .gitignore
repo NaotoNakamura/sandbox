@@ -1,0 +1,8 @@
+node_modules
+.bundle
+.env*
+.DS_Store
+log/*
+tmp/*
+storage/*
+config/master.key
