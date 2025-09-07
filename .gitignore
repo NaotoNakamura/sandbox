@@ -1,0 +1,10 @@
+**node_modules**
+**.bundle**
+**.env**
+.DS_Store
+**/tmp/*
+!**/tmp/.keep
+**/log/*
+!**/log/.keep
+storage/*
+**master.key**
